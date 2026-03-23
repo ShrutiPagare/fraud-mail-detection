@@ -1,0 +1,29 @@
+[
+  {
+    "model": "logistic_regression",
+    "accuracy": 1.0,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1_score": 1.0,
+    "roc_auc": 1.0,
+    "train_time_sec": 1.51
+  },
+  {
+    "model": "random_forest",
+    "accuracy": 1.0,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1_score": 1.0,
+    "roc_auc": 1.0,
+    "train_time_sec": 0.24
+  },
+  {
+    "model": "xgboost",
+    "accuracy": 1.0,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1_score": 1.0,
+    "roc_auc": 1.0,
+    "train_time_sec": 0.11
+  }
+]
